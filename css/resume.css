@@ -53,7 +53,7 @@ h2 {
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #36aee2; }
+    color: #5bbec5; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600; }
@@ -73,12 +73,12 @@ h2 {
     #sideNav .navbar-brand {
       display: flex;
       margin: auto auto 0;
-      padding: 0.5rem; }
+      padding: .5rem; }
       #sideNav .navbar-brand .img-profile {
         width: 100%;
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2); }
+        border: 0.3rem solid rgba(255, 255, 255, 0.2); }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -121,7 +121,7 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #36aee2 !important; }
+  background-color: #5bbec5 !important; }
 
 .text-primary {
   color: #0088cc !important; }
@@ -129,7 +129,7 @@ section.resume-section {
 a {
   color: #0088cc; }
   a:hover, a:focus, a:active {
-    color: #1a84b2; }
+    color: #37969c; }
 
 .navbar-dark .navbar-toggler {
   border: none; }
